@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanuja Kavilkar</h1>
 <h3 align="center">A passionate frontend developer and web developer 🕸️</h3>
 
-- 🔭 I’m currently working on **ReactJS**
-
-- 🌱 I’m currently learning **ReactJS, Redux**
-
-- 👯 I’m looking to collaborate on **Web Developement**
+- 
 
   
 
