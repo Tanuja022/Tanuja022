@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanuja Kavilkar</h1>
-<h3 align="center">A passionate frontend developer and web developer 🕸️</h3>
+<h3 align="center">A passionate for Generative AI and Machine Learning.🕸️</h3>
 
 - 
 
